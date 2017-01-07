@@ -1,0 +1,22 @@
+{
+  "name": "bubblespaceserver",
+  "version": "0.0.3",
+  "description": "an html5 canvas engine. backend in socket.io",
+  "main": "bubblespaceserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mikethemadkiwi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jquery": "^3.1.1",
+    "socket.io": "^1.6.0",
+    "util": "^0.10.3"
+  }
+}
